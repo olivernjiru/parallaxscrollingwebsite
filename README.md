@@ -1,4 +1,8 @@
-# parallaxscrollingwebsite
-Parallax Scrolling Website
+# Parallax Scrolling Website
 
-Didnt find the images to enable this to be completed since the source of the project did not provide the link, however I found it benefitial in my studies!
+<h3>Technologies Used: </h3>
+<p>HTML, CSS, VS Code, GitHub</p>
+
+<h3>New Stuff Learned</h3>
+<p></p>
+<p>Source: </p>
